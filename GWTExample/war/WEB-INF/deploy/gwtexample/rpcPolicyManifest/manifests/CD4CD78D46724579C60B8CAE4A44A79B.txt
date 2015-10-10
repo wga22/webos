@@ -1,0 +1,2 @@
+serviceClass: com.willallen.client.GreetingService
+path: 2452428DEB91D5D5FD55D0CA55E8F11C.gwt.rpc

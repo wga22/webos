@@ -1,0 +1,31 @@
+Monte Carlo PI.txt
+
+This app uses the accelerometer in the TouchPad to generate X, Y, Z raw values for putting points into the Monte Carlo PI approximation simulator that can be used for teaching.
+
+website: https://sites.google.com/site/willallendevelopment/
+
+trademark: Will Allen
+
+note to reviewer: simulation of monte carlo method
+
+http://www.youtube.com/watch?v=znr0UMfVVmE&feature=youtu.be
+
+http://developer.palm.com/appredirect/?packageid=com.willallen.montecarlopi
+
+
+
+Hi Please consider downloading and trying my free app.  It's new and I would love some feedback.
+APP: https://developer.palm.com/appredirect/?packageid=com.willallen.montecarlopi
+youtube: http://www.youtube.com/watch?v=znr0UMfVVmE&feature=youtu.be
+This app uses the accelerometer in the TouchPad to generate X, Y, Z raw values for putting points into the Monte Carlo PI approximation simulator that can be used for teaching.
+
+
+I just finished building another touchpad app (webos) which builds upon the computational/mathematical exercise of using Monte Carlo method to approximate PI.  Check it out, its at least cool looking:
+APP: https://developer.palm.com/appredirect/?packageid=com.willallen.montecarlopi
+youtube: http://www.youtube.com/watch?v=znr0UMfVVmE&feature=youtu.be
+
+
+
+----
+My Published Apps:
+[url=http://developer.palm.com/appredirect/?packageid=com.willallen.montecarlopi][img]https://sites.google.com/site/willallendevelopment/_/rsrc/1338001584088/home/montecarlo_icon_64.png[/img][/url][url=http://developer.palm.com/appredirect/?packageid=com.willallen.eightball][img]https://sites.google.com/site/willallendevelopment/home/bunny48.png[/img][/url]

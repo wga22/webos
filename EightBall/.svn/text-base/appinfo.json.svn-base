@@ -1,0 +1,10 @@
+{
+	"id": "com.willallen.eightball",
+	"version": "1.1.022",
+	"vendor": "WillAllen",
+	"type": "web",
+	"main": "index.html",
+	"title": "Press Your Luck!",
+	"icon": "icon.png",
+	"uiRevision": 2
+}

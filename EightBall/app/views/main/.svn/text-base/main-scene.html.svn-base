@@ -1,0 +1,64 @@
+<div id="main" class = "main">
+  <div class="title">
+  	<table>
+  		<tr>
+  			<td><div x-mojo-element="Button" id="askButton" class="buttonClass" name="buttonName"></div></td>
+  			<td><div x-mojo-element="Button" id="resetBingo" class="buttonClass" name="resetB"></div></td>
+  			<td>Touch the screen to go to Amazon.com for related items...</td>
+  		</tr>
+  </div>
+  <div id="diceDiv" name="dice" class="diceDiv">
+  	<table style="width:100%">
+  		<tr>
+  			<td style="width:30%"><img id="eightballpic" src="images/magicball.png"  class="8ball"/>
+  				<div id="eightballDiv" name="answer" class="eightballDiv">Ask a question...</div></td>
+  			<td style="width:30%"><img id="die1" src="images/dice_4.png"  class="dice"/></td>
+  			<td style="width:30%"><img id="die2" src="images/dice_4.png" class="dice"/></td>
+  		</tr>
+  	</table>
+  </div>
+  <div id="bingoDiv" name="bingo" class="bingoDiv">
+  	<table>
+  		<tr>
+  			<th>Bingo:</th>
+  			<td><div id="bingoHeader"> </div></td>
+  		</tr>
+  		<tr>
+  			<th>B:</th>
+  			<td><div id="bingo_0"> </div></td>
+  		</tr>
+  		<tr>
+  			<th>I:</th>
+  			<td><div id="bingo_1"> </div></td>
+  		</tr>
+  		<tr>
+  			<th>N:</th>
+  			<td><div id="bingo_2"> </div></td>
+  		</tr>
+  		<tr>
+  			<th>G:</th>
+  			<td><div id="bingo_3"> </div></td>
+  		</tr>
+  		<tr>
+  			<th>O:</th>
+  			<td><div id="bingo_4"> </div></td>
+  		</tr>
+  	</table>
+  	
+  	    
+  </div>
+  <div id="lotteryDiv" name="lottery" class="lotteryDiv">
+		  <table ><tr>
+		<td><img id="lb1" src="images/lotteryball.png"  class="lotteryballimg"/><div class="lbdiv" id="lbd1">0</div></td>
+		<td><img id="lb2" src="images/lotteryball.png"  class="lotteryballimg"/><div class="lbdiv" id="lbd2">0</div></td>
+		<td><img id="lb3" src="images/lotteryball.png"  class="lotteryballimg"/><div class="lbdiv" id="lbd3">0</div></td>
+		<td><img id="lb4" src="images/lotteryball.png"  class="lotteryballimg"/><div class="lbdiv" id="lbd4">0</div></td>
+		<td><img id="lb5" src="images/lotteryball.png"  class="lotteryballimg"/><div class="lbdiv" id="lbd5">0</div></td>
+		<td><img id="lb6" src="images/lotteryball.png"  class="lotteryballimg"/><div class="lbdiv" id="lbd6">0</div></td>
+		<td><div style="padding-bottom:40px;">Mega:</div></td>
+		<td><img id="lb1" src="images/lotteryball.png"  class="lotteryballimg"/><div class="lbdiv" id="lbd7">0</div></td>
+		  </tr></table>
+  </div>
+  	<div x-mojo-element="Spinner" id="spinner1" class="spinnerClass" name="waitForAnswerSpinner"></div>
+  </div>
+</div>

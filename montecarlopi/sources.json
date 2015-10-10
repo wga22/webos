@@ -1,0 +1,8 @@
+[
+    {
+        "source": "app/lib/montecarlo.js"
+    },    
+    {
+        "source": "app/assistants/stage-assistant.js"
+    }
+]

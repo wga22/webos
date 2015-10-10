@@ -1,0 +1,9 @@
+{
+	"id": "com.willallen.bigdeuce",
+	"version": "1.0.0",
+	"vendor": "willallen",
+	"type": "web",
+	"main": "index.html",
+	"title": "BigDeuce",
+	"icon": "icon.png"
+}

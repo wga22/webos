@@ -1,0 +1,10 @@
+{
+	"id": "com.willallen.montecarlopi",
+	"version": "1.2.004",
+	"vendor": "WillAllen",
+	"type": "web",
+	"main": "index.html",
+	"title": "MonteCarloPI",
+	"icon": "icon.png",
+	"uiRevision": 2
+}

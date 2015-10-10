@@ -1,0 +1,16 @@
+Press your luck:
+
+	https://sites.google.com/site/willallendevelopment/
+	
+	
+	Description:
+		App that gives you random values, seeded by accelerometer, for Bingo, Magic Eightball, dice and MegaMillions Lottery.
+		
+	50 word:
+		App that gives you random values, seeded by accelerometer, for Bingo, Magic Eightball, dice and MegaMillions Lottery
+		
+	25 Word
+	App that gives you random values, seeded by accelerometer, for Bingo, Magic Eightball, dice and MegaMillions Lottery.
+	
+	French
+	Permet de générer des valeurs aléatoires pour le bingo, les loteries, les dés et le "Magic Eight Ball"

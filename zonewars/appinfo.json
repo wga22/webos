@@ -1,0 +1,10 @@
+{
+	"id": "com.willallen.zonewars",
+	"version": "1.0.064",
+	"vendor": "WillAllen",
+	"type": "web",
+	"main": "index.html",
+	"title": "ZoneWars",
+	"icon": "icon.png",
+	"uiRevision": 2
+}
