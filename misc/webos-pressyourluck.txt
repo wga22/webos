@@ -1,0 +1,12 @@
+Amazon referral program
+	willalledeve-20
+<a href="http://www.amazon.com/gp/product/B00001ZWV7/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=willalledeve-20&linkCode=as2&camp=217145&creative=399377&creativeASIN=B00001ZWV7">Magic 8 Ball</a><img src="http://www.assoc-amazon.com/e/ir?t=willalledeve-20&l=as2&o=1&a=B00001ZWV7&camp=217145&creative=399377" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><label id=showTextCategoryLinkPreview_l1> (See all </label><a href="http://www.amazon.com/b/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=willalledeve-20&linkCode=as2&camp=217145&creative=399385&creativeASIN=B00001ZWV7&ie=UTF8&node=166051011">Ball Toys </a>)<img src="http://www.assoc-amazon.com/e/ir?t=willalledeve-20&l=as2&o=1&a=B00001ZWV7&camp=217145&creative=399385" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+
+App that gives you random values, seeded by accelerometer, for Bingo, Magic Eightball, dice and MegaMillions Lottery.
+http://www.youtube.com/watch?v=oTRvkZNaXQg
+
+https://developer.palm.com/appredirect/?packageid=com.willallen.eightball
+
+Permet de générer des valeurs aléatoires pour le bingo, les loteries, les dés et le "Magic Eight Ball"

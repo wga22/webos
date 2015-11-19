@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\HP webOS\SDK\bin\palm-package" -o c:\temp\compile "C:\Users\Will\EclipseWorkspace\WebOS\EightBall"
